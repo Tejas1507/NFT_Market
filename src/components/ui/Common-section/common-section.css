@@ -1,0 +1,13 @@
+
+
+.common__section{
+    background: url('../../../assests/nftimg/bkg.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+}
+
+.common__section h2{
+    color: #fff;
+}
